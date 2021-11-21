@@ -1,0 +1,6 @@
+{
+  "name": "FlareSolverr",
+  "description": "A FlareSolverr Heroku",
+  "repository": "https://github.com/shadowdragon30/FlareSolverr-heroku",
+  "stack": "container"
+}
